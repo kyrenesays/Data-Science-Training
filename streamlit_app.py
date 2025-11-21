@@ -806,7 +806,7 @@ def admin_panel():
         model_url = st.text_input(
             "Teachable Machine Shareable Link:",
             value=current_model_url,
-            help="Paste your Teachable Machine model share link here"
+            help="https://teachablemachine.withgoogle.com/models/lS0aMBFl1/"
         )
         
         if st.button("💾 Save Model URL"):
