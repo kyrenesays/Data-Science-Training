@@ -1,1 +1,8 @@
-!pip install streamlit
+streamlit
+pandas
+numpy
+Pillow
+scikit-learn
+scipy
+matplotlib
+seaborn
